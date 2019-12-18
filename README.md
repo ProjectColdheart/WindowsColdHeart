@@ -8,5 +8,7 @@ those ran in fuzzbunch. For those who don't know, fuzzbunch contains a wide rang
 Currently Coldheart only supports two exploits: Eternalblue, and Doublepulsar (used to hack windows machines) and a 
 few 'touch' programs for information gathering. More exploits to be added soon.
 
+*IMPORTANT* If you try and run the script and it instantly closes or says 'No module named pip', please install pip first.
+
 Creators:
 @elijah__bennett0 (instagram)
