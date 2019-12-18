@@ -1,5 +1,6 @@
 # WindowsColdHeart
-The Windows version of the Coldheart framework
+The Windows version of the Coldheart framework. Should work on windows versions 7 and above with python version 2.7.
+Tested: Win7 - Working
 
 This is the project Coldheart. This framework is a replacement for the NSA's execution environment 'Fuzzbunch' and 
 written in Python 2.7. The main purpose of Coldheart is to quickly, easily, and effectively run operations similar to 
